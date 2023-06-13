@@ -1,3 +1,6 @@
-checkpoint/
-data/
-.idea/
+checkpoint/*
+data/*
+.idea
+
+!checkpoint/README.md
+!data/README.md
